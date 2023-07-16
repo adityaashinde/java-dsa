@@ -18,3 +18,5 @@
 - [StringBuffer Methods](#string-buffer-methods)
 - [Classes-and-Objects](#classes-and-objects)
    - Constructor
+   - Inheritance
+   - Exception Handling 
