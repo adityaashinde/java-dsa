@@ -19,8 +19,4 @@
 - [Classes-and-Objects](#classes-and-objects)
    - Constructor
    - Inheritance
- //  - Polymorphism
- //  - Interface
- //  - Abstract Class
-//   - Inner Class
    - Exception Handling 
